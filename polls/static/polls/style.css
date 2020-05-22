@@ -1,0 +1,17 @@
+li a {
+    color: white;
+    font-size: 30px;
+    
+}
+
+body {
+    background: white url("images/cool.png") no-repeat;
+    background-size: cover;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    margin-top: 20%;
+    list-style:none; 
+}
